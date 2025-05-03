@@ -1,0 +1,102 @@
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted to the ROOT at: 0x5b2f38f0a6d0
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted B to the left of 0x5b2f38f0a6d0 (A) at: 0x5b2f38f0a6f0
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted C to the right of 0x5b2f38f0a6d0 (A) at: 0x5b2f38f0a970
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted D to the left of 0x5b2f38f0a6f0 (B) at: 0x5b2f38f0a990
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted E to the right of 0x5b2f38f0a6f0 (B) at: 0x5b2f38f0a9b0
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted F to the left of 0x5b2f38f0a970 (C) at: 0x5b2f38f0a9d0
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted G to the right of 0x5b2f38f0a970 (C) at: 0x5b2f38f0a9f0
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted H to the left of 0x5b2f38f0a990 (D) at: 0x5b2f38f0aa10
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted I to the right of 0x5b2f38f0a990 (D) at: 0x5b2f38f0aa30
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted J to the left of 0x5b2f38f0a9b0 (E) at: 0x5b2f38f0aa50
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted K to the right of 0x5b2f38f0a9b0 (E) at: 0x5b2f38f0aa70
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted L to the left of 0x5b2f38f0a9d0 (F) at: 0x5b2f38f0aa90
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted M to the right of 0x5b2f38f0a9d0 (F) at: 0x5b2f38f0aab0
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted N to the left of 0x5b2f38f0a9f0 (G) at: 0x5b2f38f0aad0
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted O to the right of 0x5b2f38f0a9f0 (G) at: 0x5b2f38f0aaf0
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: Enter the input Character: Inserted P to the left of 0x5b2f38f0aa10 (H) at: 0x5b2f38f0ab10
+
+MENU:
+1. Insert
+6. Exit
+
+Enter Choice: 
